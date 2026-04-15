@@ -18,7 +18,7 @@ const PASSWORD = "ielgantengbanget";
 // MODE
 // ==========================
 
-const MODE = "REAL"; // 👉 ganti ke "REAL" kalau sudah siap
+const MODE = "TEST"; // 👉 ganti ke "REAL" kalau sudah siap
 
 const TARGET_REAL = "2026-06-11T00:00:00+07:00";
 
